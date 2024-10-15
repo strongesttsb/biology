@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+
+.razgebaivnie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.h1_biseps_and_triseps{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.lorem1{
+    font-size:31px;
+    padding-left: 20px;
+}
+span{
+    color: red;
+    font-size:35px;
+}
+.img_biseps_and_trispes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img_biseps_and_trispe{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.a_second{
+    display: flex;
+    justify-content: end;
+    padding: 20px;
+}
+h2{
+    font-size: 40px;
+    
+}
+.img_kvadriceps_bedrenaya{
+    display: flex;
+    font-display: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+}
+.a_a{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.chest_muscule{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.img_chest_muscule_trapesiya{
+    display: flex;
+}
+.chest_muscule{
+    margin-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
